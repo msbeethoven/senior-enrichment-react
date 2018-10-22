@@ -1,5 +1,7 @@
 # Senior Enrichment Project
 
+run `npm run start:dev`
+
 ## Getting started
 
 1. Fork and clone this repo
